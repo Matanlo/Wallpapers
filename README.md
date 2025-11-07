@@ -4,4 +4,4 @@ To download all wallpapers to hyprlock wallpaper folder:
 To update your wallpapers to the current status of the github repository:
 1. `cd ~/.config/hyprlock/wallpapers/`
 2. `git pull`
-in 
+3. `git status` to check for errors. 
